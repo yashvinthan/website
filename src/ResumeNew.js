@@ -1,0 +1,1 @@
+export default function ResumeNew() { return <div>Resume</div>; }

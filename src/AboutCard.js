@@ -1,0 +1,1 @@
+export default function AboutCard() { return <div>About Card</div>; }
